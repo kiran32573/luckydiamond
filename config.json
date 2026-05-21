@@ -1,3 +1,4 @@
 {
-  "close_button_action": "close"
+  "bg_click_enabled": true,
+  "bg_click_url": "https://github.com/BAV-Games"
 }
