@@ -1,4 +1,6 @@
 {
-  "bg_click_enabled": true,
-  "bg_click_url": "https://github.com/BAV-Games"
+  "download_button": {
+    "enabled": true,
+    "url": "https://example.com/download"
+  }
 }
