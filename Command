@@ -1,0 +1,17 @@
+show button:
+{
+  "download_button": {
+    "enabled": true,
+    "url": "https://example.com/download"
+  }
+}
+
+-------------------------------------------------------------------
+
+hide button:
+{
+  "download_button": {
+    "enabled": false,
+    "url": "https://example.com/download"
+  }
+}
